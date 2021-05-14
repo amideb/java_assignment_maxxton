@@ -1,4 +1,4 @@
-<p>Java Assignment Maxxton</p>
+<h2>Java Assignment Maxxton</h2>
 <p><br></p>
 <p>`*********INPUT**********</p>
 <p>2014-01-01 - 2014-01-30</p>
